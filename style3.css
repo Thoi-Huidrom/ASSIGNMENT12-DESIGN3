@@ -1,0 +1,121 @@
+@font face{
+    font-family: "epaomayek";
+    src:url("EPAOMAYEK.TTF")format("truetype");
+    font-size: 30px;
+}
+.navbar{
+    margin: 0%;
+    background-color: greenyellow;
+}
+.navbar ul{
+      list-style-type: none;
+      display: block;
+      overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+}
+.navbar li{
+    float: left;
+    padding: 0px 200px;
+}
+.navbar a:hover{
+    background-color: aqua;
+}
+
+body{
+    border: 4pt solid green;
+    height: 1840px;
+}
+.box1 ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+}
+.box1 li{
+    float: left;
+    padding: 1px 4px;
+    margin: 1pt;
+}
+.rectangle{
+    border: 2pt solid greenyellow;
+    height: 1500px;
+    width: 690px;
+    
+}
+
+.second1{
+    color: orange;
+    font-size: 15px;
+}
+.second2{
+    color: orange;
+    font-size: 30px;
+}
+.rectangle2{
+    color: gray;
+    margin-left: 8px;
+    padding: 2px;
+    border: 2px solid goldenrod;
+    height: 40px;
+    width: 660px;
+
+}
+.chaoba{
+    margin-left: 2%;
+      float: left;
+      color: orchid;  
+      size: 15%; 
+}
+.babu{
+    margin-left: 2%;
+    float: left;
+    color: blueviolet;
+    size: 15%;
+}
+.footer ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+}
+ .footer li{
+    float: left;
+    padding: 1px 4px;
+    margin: 1pt;
+}
+
+.aboutme{
+    font-size: 12px;
+    height: 120px;
+    width: 520px;
+    color: black;
+    font-size: 20px;
+    margin: 2px;
+    
+
+}
+.contactus{
+    font-size: 12px;
+    height: 120px;
+    width: 520px;
+    float: right;
+    text-align: LEFT;
+    color: black;
+    font-size: 20px;
+    margin:  2px;
+
+} 
+
+
+.footer1{
+    background-color: greenyellow;
+    margin: 7px;
+    border: 2px solid green;
+    width: 1470px;
+    height: 160px;
+}
+
+
+
+
+
